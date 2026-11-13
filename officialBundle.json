@@ -1,0 +1,31 @@
+{
+  "schema_version": "haven.official-bundle.v1",
+  "built_at": "2026-11-13T18:16:15Z",
+  "countries": [
+    {
+      "country": {
+        "slug": "poland",
+        "name": "Poland"
+      },
+      "publisher": "Foreign, Commonwealth & Development Office",
+      "page_url": "https://www.gov.uk/foreign-travel-advice/poland",
+      "last_checked_at": "2026-11-13T18:16:15Z",
+      "status": "current",
+      "check_detail": "ok",
+      "advice": {
+        "title": "Poland travel advice",
+        "updated_at": "2026-11-11T15:42:44Z",
+        "change_note": "Updated information following the terrorist attack in Kraków, including advice for those affected (‘Warnings and insurance’ page).",
+        "alerts": [],
+        "url": "https://www.gov.uk/foreign-travel-advice/poland",
+        "content_hash": "sha256:v1:50ef03e59e8f3221f79b5baf0a7e0fffbdafdda3a862e6f1a402ec07eb3b6a17"
+      }
+    }
+  ],
+  "attribution": {
+    "licence_name": "Open Government Licence v3.0",
+    "licence_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "statement": "Contains public sector information licensed under the Open Government Licence v3.0."
+  },
+  "bundle_hash": "sha256:v1:4e810d912fd0afdf56bdfd97700b9031ce81cc1eaf597112750bc42c3f797b2e"
+}
