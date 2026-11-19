@@ -1,6 +1,6 @@
 {
   "schema_version": "haven.official-bundle.v4",
-  "built_at": "2026-11-19T15:31:34Z",
+  "built_at": "2026-11-19T16:37:17Z",
   "countries": [
     {
       "country": {
@@ -9,7 +9,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/afghanistan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -33,7 +33,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/albania",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -52,7 +52,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/algeria",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -76,7 +76,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/andorra",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -95,7 +95,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/angola",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -119,7 +119,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/anguilla",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -138,7 +138,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/antarctica-british-antarctic-territory",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -157,7 +157,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -176,7 +176,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/argentina",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -195,7 +195,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/armenia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -219,7 +219,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/aruba",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -238,7 +238,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/australia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -257,7 +257,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/austria",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -276,7 +276,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/azerbaijan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -304,7 +304,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bahamas",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -323,7 +323,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bahrain",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -342,7 +342,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bangladesh",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -366,7 +366,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/barbados",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -385,7 +385,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/belarus",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -409,7 +409,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/belgium",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -428,7 +428,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/belize",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -447,7 +447,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/benin",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -475,7 +475,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bermuda",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -494,7 +494,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bhutan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -513,7 +513,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bolivia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -537,7 +537,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bonaire-st-eustatius-saba",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -556,7 +556,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -575,7 +575,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/botswana",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -594,7 +594,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/brazil",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -618,7 +618,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -637,7 +637,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/british-virgin-islands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -656,7 +656,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/brunei",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -675,7 +675,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/bulgaria",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -694,7 +694,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/burkina-faso",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -718,7 +718,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/burundi",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -742,7 +742,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cambodia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -766,7 +766,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cameroon",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -794,7 +794,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/canada",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -813,7 +813,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cape-verde",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -832,7 +832,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cayman-islands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -851,7 +851,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/central-african-republic",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -875,7 +875,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/chad",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -899,7 +899,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/chile",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -918,7 +918,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/china",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -937,7 +937,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/colombia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -961,7 +961,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/comoros",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -980,7 +980,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/congo",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1004,7 +1004,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1023,7 +1023,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/costa-rica",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1042,7 +1042,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1066,7 +1066,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/croatia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1085,7 +1085,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cuba",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1109,7 +1109,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/curacao",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1128,7 +1128,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/cyprus",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1147,7 +1147,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/czechia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1166,7 +1166,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1194,7 +1194,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/denmark",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1213,7 +1213,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/djibouti",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1237,7 +1237,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/dominica",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1256,7 +1256,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/dominican-republic",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1275,7 +1275,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/ecuador",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1299,7 +1299,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/egypt",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1327,7 +1327,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/el-salvador",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1346,7 +1346,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1365,7 +1365,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/eritrea",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1393,7 +1393,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/estonia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1412,7 +1412,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/eswatini",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1431,7 +1431,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/ethiopia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1459,7 +1459,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/falkland-islands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1478,7 +1478,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1497,7 +1497,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/fiji",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1516,7 +1516,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/finland",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1535,7 +1535,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/france",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1554,7 +1554,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/french-guiana",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1573,7 +1573,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/french-polynesia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1592,7 +1592,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/gabon",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1611,7 +1611,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/georgia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1635,7 +1635,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/germany",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1654,7 +1654,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/ghana",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1678,7 +1678,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/gibraltar",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1697,7 +1697,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/greece",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1716,7 +1716,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/grenada",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1735,7 +1735,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/guadeloupe",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1754,7 +1754,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/guatemala",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1778,7 +1778,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/guinea",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1797,7 +1797,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/guinea-bissau",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1816,7 +1816,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/guyana",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1835,7 +1835,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/haiti",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1859,7 +1859,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/honduras",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1878,7 +1878,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/hong-kong",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1897,7 +1897,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/hungary",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1916,7 +1916,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/iceland",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1935,7 +1935,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/india",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1959,7 +1959,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/indonesia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -1978,7 +1978,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/iran",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2002,7 +2002,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/iraq",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2030,7 +2030,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/ireland",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2049,7 +2049,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/israel",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2077,7 +2077,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/italy",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2096,7 +2096,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/jamaica",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2115,7 +2115,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/japan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2134,7 +2134,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/jordan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2158,7 +2158,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/kazakhstan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2177,7 +2177,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/kenya",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2205,7 +2205,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/kiribati",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2224,7 +2224,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/kosovo",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2243,7 +2243,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/kuwait",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2262,7 +2262,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2281,7 +2281,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/laos",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2305,7 +2305,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/latvia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2324,7 +2324,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/lebanon",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2352,7 +2352,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/lesotho",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2371,7 +2371,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/liberia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2390,7 +2390,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/libya",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2418,7 +2418,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/liechtenstein",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2437,7 +2437,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/lithuania",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2456,7 +2456,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/luxembourg",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2475,7 +2475,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/macao",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2494,7 +2494,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/madagascar",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2513,7 +2513,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/malawi",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2532,7 +2532,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/malaysia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2556,7 +2556,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/maldives",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2575,7 +2575,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/mali",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2599,7 +2599,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/malta",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2618,7 +2618,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/marshall-islands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2637,7 +2637,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/martinique",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2656,7 +2656,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/mauritania",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2680,7 +2680,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/mauritius",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2699,7 +2699,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/mayotte",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2718,7 +2718,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/mexico",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2742,7 +2742,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/moldova",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2766,7 +2766,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/monaco",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2785,7 +2785,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/mongolia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2804,7 +2804,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/montenegro",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2823,7 +2823,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/montserrat",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2842,7 +2842,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/morocco",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2861,7 +2861,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/mozambique",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2889,7 +2889,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/myanmar",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2917,7 +2917,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/namibia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2936,7 +2936,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/nauru",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2955,7 +2955,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/nepal",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2974,7 +2974,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/netherlands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -2993,7 +2993,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/new-caledonia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3012,7 +3012,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/new-zealand",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3031,7 +3031,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/nicaragua",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3050,7 +3050,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/niger",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3074,7 +3074,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/nigeria",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3102,7 +3102,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/north-korea",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3126,7 +3126,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/north-macedonia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3145,7 +3145,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/norway",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3164,7 +3164,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/oman",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3183,7 +3183,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/pakistan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3211,7 +3211,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/palau",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3230,7 +3230,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/palestine",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3258,7 +3258,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/panama",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3277,7 +3277,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3301,7 +3301,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/paraguay",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3320,7 +3320,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/peru",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3344,7 +3344,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/philippines",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3368,7 +3368,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/pitcairn-island",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3387,7 +3387,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/poland",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3406,7 +3406,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/portugal",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3425,7 +3425,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/qatar",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3444,7 +3444,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/reunion",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3463,7 +3463,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/romania",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3482,7 +3482,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/russia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3506,7 +3506,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/rwanda",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3530,7 +3530,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/samoa",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3549,7 +3549,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/san-marino",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3568,7 +3568,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/sao-tome-and-principe",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3587,7 +3587,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3615,7 +3615,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/senegal",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3634,7 +3634,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/serbia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3653,7 +3653,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/seychelles",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3672,7 +3672,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/sierra-leone",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3691,7 +3691,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/singapore",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3710,7 +3710,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/slovakia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3729,7 +3729,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/slovenia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3748,7 +3748,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/solomon-islands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3767,7 +3767,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/somalia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3791,7 +3791,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/south-africa",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3810,7 +3810,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3829,7 +3829,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/south-korea",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3848,7 +3848,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/south-sudan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3872,7 +3872,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/spain",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3891,7 +3891,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/sri-lanka",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3910,7 +3910,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3929,7 +3929,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/st-kitts-and-nevis",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3948,7 +3948,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/st-lucia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3967,7 +3967,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/st-maarten",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -3986,7 +3986,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4005,7 +4005,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4024,7 +4024,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4043,7 +4043,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/sudan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4067,7 +4067,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/suriname",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4086,7 +4086,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/sweden",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4105,7 +4105,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/switzerland",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4124,7 +4124,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/syria",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4148,7 +4148,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/taiwan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4167,7 +4167,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/tajikistan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4186,7 +4186,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/tanzania",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4210,7 +4210,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/thailand",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4234,7 +4234,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/the-gambia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4253,7 +4253,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/timor-leste",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4272,7 +4272,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/togo",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4300,7 +4300,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/tonga",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4319,7 +4319,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4338,7 +4338,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/tunisia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4362,7 +4362,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/turkey",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4386,7 +4386,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/turkmenistan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4405,7 +4405,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4424,7 +4424,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/tuvalu",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4443,7 +4443,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/uganda",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4462,7 +4462,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/ukraine",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4490,7 +4490,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4509,7 +4509,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/uruguay",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4528,7 +4528,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/usa",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4547,7 +4547,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/uzbekistan",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4566,7 +4566,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/vanuatu",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4585,7 +4585,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/venezuela",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4613,7 +4613,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/vietnam",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4632,7 +4632,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/wallis-and-futuna",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4651,7 +4651,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/western-sahara",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4675,7 +4675,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/yemen",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4699,7 +4699,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/zambia",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4718,7 +4718,7 @@
       },
       "publisher": "Foreign, Commonwealth & Development Office",
       "page_url": "https://www.gov.uk/foreign-travel-advice/zimbabwe",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "advice": {
@@ -4734,7 +4734,7 @@
   "power_cuts": {
     "ukpn": {
       "publisher": "UK Power Networks",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "cuts": [
@@ -4764,7 +4764,7 @@
           "postcode_sectors": [
             "ME17 3"
           ],
-          "homes_affected": 0,
+          "homes_affected": 2,
           "description": "A fault has occurred on an underground electricity cable affecting the local area, we may have to dig up the road to carry out repairs.",
           "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this, but we are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
         },
@@ -4835,7 +4835,7 @@
           "postcode_sectors": [
             "CO5 7"
           ],
-          "homes_affected": 4,
+          "homes_affected": 0,
           "description": "To provide a reliable electricity supply to your property, we carry out regular inspections of our equipment in your area. This has identified poles that need replacing and upgrading. Doing this will reduce the risk of you having an unplanned power cut in the future. To ensure the power is off for the shortest possible time, our contractors may carry out preparation works prior to the power cut. We appreciate your area has been impacted with unplanned power cuts in the last 6 months. To allow our contractors to safely replace poles in your area, we will need to temporarily disconnect the generator on 19th November. Once the work on 19th November is finished, the temporary generator will be reconnected. After all planned works have been completed, we will then disconnect the generator on 27th November and return your supply to the main power network. This work is taking place on Colchester Road.",
           "message": "The electricity supply to your premises may currently be affected by planned work. You should have received a letter explaining this. We hope to be able to restore your supplies by 19-NOV-2026 15:00. Please accept our sincere apologies for any inconvenience this is causing."
         },
@@ -4855,9 +4855,9 @@
           "postcode_sectors": [
             "HP7 0"
           ],
-          "homes_affected": 33,
+          "homes_affected": 0,
           "description": "We regularly inspect electrical equipment in your area to help keep your electricity supply safe and reliable. As part of this programme, we will be replacing and upgrading 2 electricity poles, as well as removing redundant electrical equipment from the network. These poles play an important role in helping us deliver a safe and reliable supply to homes and businesses. This work will also reduce the likelihood of unexpected power cuts in the future. We appreciate that some customers may have experienced an unplanned power cut in the last 6 months. To carry out this work safely, we need to temporarily switch off your electricity while we work on the electricity poles. Due to the amount of work required we will need to switch off your power for a longer period. To help reduce the time the power is off, our contractors Avidety will carry out some preparation work on the 18th November, before the planned power cut so you may see their vans in the area. This work is taking place in the Pondwicks area.",
-          "message": "The electricity supply to your premises may currently be affected by planned work. You should have received a letter explaining this. We hope to be able to restore your supplies by 19-NOV-2026 16:30. Please accept our sincere apologies for any inconvenience this is causing."
+          "message": "We have competed the planned work in your area. There may still be some tidying up to do, and any details have been passed to our Maintenance department, who will attend to it as soon as possible. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-27619-O",
@@ -4865,7 +4865,7 @@
           "postcode_sectors": [
             "PE13 5"
           ],
-          "homes_affected": 31,
+          "homes_affected": 0,
           "description": "We regularly inspect electrical equipment in your area to help keep your electricity supply safe and reliable. As part of this programme, we will be replacing and upgrading 3 electricity poles. These poles play an important role in helping us deliver a safe and reliable supply to homes and businesses. This work will also reduce the likelihood of unexpected power cuts in the future. We appreciate some customers may have experienced unplanned power cuts and a planned power cut in the last 6 months. To carry out this work safely, we need to temporarily switch off your electricity while we work on the electricity poles. Due to the amount of work required we will need to switch off your power for a longer period. To help reduce the time the power is off, our contractors Ipsum may carry out some preparation work before the planned power cut so you may see their vans in the area. This work is taking place in the Catlings Lane and Sutton Road area. Two way traffic lights will be in place to allow the work to be carri",
           "message": "The electricity supply to your premises may currently be affected by planned work. You should have received a letter explaining this. We hope to be able to restore your supplies by 19-NOV-2026 16:00. Please accept our sincere apologies for any inconvenience this is causing."
         },
@@ -4885,7 +4885,7 @@
           "postcode_sectors": [
             "CM12 9"
           ],
-          "homes_affected": 8,
+          "homes_affected": 0,
           "description": "We regularly inspect electrical equipment in your area to help keep your electricity supply safe and reliable. As part of this programme, we will be replacing 2 poles, removing 1 section of overhead cable, installing a new section of underground cable and upgrading a substation. This equipment plays an important role in helping us deliver a safe and reliable supply to homes and businesses. This work will also reduce the likelihood of unexpected power cuts in the future. We appreciate some customers may have experienced unplanned power cuts in the last 6 months. To carry out this work safely, we need to temporarily switch off your electricity. Due to the amount of work required we will need to switch off your power for a longer period. To help reduce the time the power is off, our contractors Freedom may carry out some preparation work before the planned power cut so you may see their vans in the area. This work is taking place in the Tye Common Road and First Avenue area.",
           "message": "The electricity supply to your premises may currently be affected by planned work. You should have received a letter explaining this. We hope to be able to restore your supplies by 19-NOV-2026 17:00. Please accept our sincere apologies for any inconvenience this is causing."
         },
@@ -4941,7 +4941,17 @@
           ],
           "homes_affected": 385,
           "description": "An underground electricity cable has faulted on our high voltage network, causing an area wide power cut.",
-          "message": "We are currently experiencing problems with the electricity supply in your area. Our engineers have attended the fault, and have made an emergency repair to restore power to as many premises as possible. It is our intention to return to make a permanent repair as soon as we can. I'm sorry, but we can't give you a time for this at present. Please accept our sincere apologies for any inconvenience this may cause."
+          "message": "We are aware of an incident caused by 11kV UG Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 17:30. Please accept our sincere apologies for any inconvenience this may cause."
+        },
+        {
+          "reference": "INCD-420522-J",
+          "type": "unplanned",
+          "postcode_sectors": [
+            "N19 4"
+          ],
+          "homes_affected": 0,
+          "description": "A fault has occurred on a piece of our electrical equipment which controls the power to your home.",
+          "message": "We are aware of an incident caused by LV Fuse Replacement/Linking affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 20:30. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-470085-G",
@@ -5004,24 +5014,37 @@
           "message": "We are aware of an incident caused by OH Service Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 18:00. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
-          "reference": "INCD-470275-G",
-          "type": "unplanned",
-          "postcode_sectors": [
-            "CT3 1"
-          ],
-          "homes_affected": 0,
-          "description": "We've had to turn off power in your area so our engineers can safely carry out emergency repairs to the network.",
-          "message": "We are aware of an incident caused by Emergency Isolation affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 16:30. Please accept our sincere apologies for any inconvenience this may cause."
-        },
-        {
           "reference": "INCD-470279-G",
           "type": "unplanned",
           "postcode_sectors": [
             "TN35 5"
           ],
           "homes_affected": 0,
-          "description": "A fault has occurred on a piece of our electrical equipment which controls the power to your home.",
-          "message": "We are aware of an incident caused by LV Fuse Replacement/Linking affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 19:30. Please accept our sincere apologies for any inconvenience this may cause."
+          "description": "A fault has occurred on an underground electricity cable affecting the local area, we may have to dig up the road to carry out repairs.",
+          "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 19:30. Please accept our sincere apologies for any inconvenience this may cause."
+        },
+        {
+          "reference": "INCD-470317-G",
+          "type": "unplanned",
+          "postcode_sectors": [
+            "DA13 9",
+            "DA2 7",
+            "DA2 8",
+            "DA4 9"
+          ],
+          "homes_affected": 0,
+          "description": "An underground electricity cable has faulted on our high voltage network, causing an area wide power cut.",
+          "message": "We are aware of an incident caused by 11kV UG Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 19:30. Please accept our sincere apologies for any inconvenience this may cause."
+        },
+        {
+          "reference": "INCD-470320-G",
+          "type": "unplanned",
+          "postcode_sectors": [
+            "TN38 0"
+          ],
+          "homes_affected": 0,
+          "description": "We're currently investigating a fault on the electricity network which has caused a power cut in the local area.",
+          "message": "We are currently experiencing problems with the electricity supply in your area. We are arranging to have engineers investigate the fault. We are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-640641-Z",
@@ -5041,7 +5064,7 @@
           ],
           "homes_affected": 6,
           "description": "A fault has occurred on an underground electricity cable affecting the local area, we may have to dig up the road to carry out repairs.",
-          "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 16:30. Please accept our sincere apologies for any inconvenience this may cause."
+          "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 18:30. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-643419-Z",
@@ -5084,16 +5107,6 @@
           "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this, but we are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
-          "reference": "INCD-647639-Z",
-          "type": "unplanned",
-          "postcode_sectors": [
-            "CO11 2"
-          ],
-          "homes_affected": 1,
-          "description": "We're investigating a high voltage overhead electricity line fault which has caused a power cut in the local area.",
-          "message": "We are aware of an incident caused by 11kV OH Fault affecting the electricity supply in your area. Our engineers are dealing with this, but we are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
-        },
-        {
           "reference": "INCD-647849-Z",
           "type": "unplanned",
           "postcode_sectors": [
@@ -5102,7 +5115,7 @@
           ],
           "homes_affected": 1,
           "description": "A fault has occurred on an underground electricity cable affecting the local area, we may have to dig up the road to carry out repairs.",
-          "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this, but we are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
+          "message": "We are currently experiencing problems with the electricity supply in your area. Our engineers have attended the fault, and have made an emergency repair to restore power to as many premises as possible. It is our intention to return to make a permanent repair as soon as we can. I'm sorry, but we can't give you a time for this at present. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-647873-Z",
@@ -5113,17 +5126,7 @@
           ],
           "homes_affected": 0,
           "description": "An underground electricity cable has faulted on our high voltage network, causing an area wide power cut.",
-          "message": "We are currently experiencing problems with the electricity supply in your area. Our engineers have attended the fault, and have made an emergency repair to restore power to as many premises as possible. It is our intention to return to make a permanent repair as soon as we can. I'm sorry, but we can't give you a time for this at present. Please accept our sincere apologies for any inconvenience this may cause."
-        },
-        {
-          "reference": "INCD-647897-Z",
-          "type": "unplanned",
-          "postcode_sectors": [
-            "SS9 2"
-          ],
-          "homes_affected": 1,
-          "description": "A fault has occurred on an underground electricity cable affecting the local area, we may have to dig up the road to carry out repairs.",
-          "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this, but we are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
+          "message": "We are aware of an incident caused by 11kV UG Fault affecting the electricity supply in your area. Our engineers are dealing with this, but we are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-648017-Z",
@@ -5154,7 +5157,7 @@
           "postcode_sectors": [
             "NW11 6"
           ],
-          "homes_affected": 22,
+          "homes_affected": 65,
           "description": "A fault has occurred on an underground electricity cable affecting the local area, we may have to dig up the road to carry out repairs.",
           "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 20:00. Please accept our sincere apologies for any inconvenience this may cause."
         },
@@ -5184,9 +5187,9 @@
           "postcode_sectors": [
             "IP12 3"
           ],
-          "homes_affected": 9,
+          "homes_affected": 2,
           "description": "We're investigating a high voltage overhead electricity line fault which has caused a power cut in the local area.",
-          "message": "We are aware of an incident caused by 11kV OH Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 16:30. Please accept our sincere apologies for any inconvenience this may cause."
+          "message": "We are aware of an incident caused by 11kV OH Fault affecting the electricity supply in your area. Our engineers are dealing with this, but we are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-648362-Z",
@@ -5196,7 +5199,7 @@
           ],
           "homes_affected": 4,
           "description": "We've had to turn off power in your area so our engineers can safely carry out emergency repairs to the network.",
-          "message": "We are aware of an incident caused by Emergency Isolation affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 17:00. Please accept our sincere apologies for any inconvenience this may cause."
+          "message": "We are aware of an incident caused by Emergency Isolation affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 20:00. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-648370-Z",
@@ -5204,7 +5207,7 @@
           "postcode_sectors": [
             "SS14 3"
           ],
-          "homes_affected": 8,
+          "homes_affected": 22,
           "description": "A fault has occurred on an underground electricity cable affecting the local area, we may have to dig up the road to carry out repairs.",
           "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 17:30. Please accept our sincere apologies for any inconvenience this may cause."
         },
@@ -5246,9 +5249,20 @@
           "postcode_sectors": [
             "N18 2"
           ],
-          "homes_affected": 0,
+          "homes_affected": 21,
           "description": "We're investigating an electricity cable that has been damaged, causing a power cut in the local area.",
-          "message": "We are aware of an incident caused by LV 3rd Party Cable Damage affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 18:00. Please accept our sincere apologies for any inconvenience this may cause."
+          "message": "We are aware of an incident caused by LV 3rd Party Cable Damage affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 19:00. Please accept our sincere apologies for any inconvenience this may cause."
+        },
+        {
+          "reference": "INCD-648480-Z",
+          "type": "unplanned",
+          "postcode_sectors": [
+            "CB8 8",
+            "CB8 9"
+          ],
+          "homes_affected": 192,
+          "description": "We're currently investigating a fault on the electricity network which has caused a power cut in the local area.",
+          "message": "We are currently experiencing problems with the electricity supply in your area. We are arranging to have engineers investigate the fault. We are sorry we can't give you a time for the restoration of supply at present. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
           "reference": "INCD-83643-N",
@@ -5262,37 +5276,7 @@
           "message": "We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 19-NOV-2026 18:00. Please accept our sincere apologies for any inconvenience this may cause."
         },
         {
-          "reference": "MULT-0326b4da-7ea7-4c02-b194-e8722e5bc3a5",
-          "type": "multiple",
-          "postcode_sectors": [
-            "PE14 8"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-0c6f0eec-e635-47b4-bf10-757f038575b4",
-          "type": "multiple",
-          "postcode_sectors": [
-            "IP29 4"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-1024d66a-18f5-4349-b398-af7fb00f64a7",
-          "type": "multiple",
-          "postcode_sectors": [
-            "CM1 2"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-12ebeee3-bc21-4fca-bd88-d592a1486726",
+          "reference": "MULT-06a4ee93-63f6-406c-bcac-dce1a2089ac6",
           "type": "multiple",
           "postcode_sectors": [
             "CM22 6",
@@ -5305,29 +5289,54 @@
           "message": null
         },
         {
-          "reference": "MULT-1836d43d-0e6b-4efa-a108-9e5a7e5f6beb",
+          "reference": "MULT-072c5f88-f299-4574-b517-d5e803a0f1bd",
           "type": "multiple",
           "postcode_sectors": [
-            "SG4 0",
-            "SG4 9",
-            "SG5 1"
+            "CB6 1",
+            "CB6 3"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-19f1813f-b69b-4be6-92e8-31cd8f0a0ad9",
+          "reference": "MULT-0bb0fb90-85d8-43f5-8449-89be05d046e2",
           "type": "multiple",
           "postcode_sectors": [
-            "SS9 2"
+            "IP29 4"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-29904a3d-e12e-4916-8edb-9c82aa85ddfa",
+          "reference": "MULT-1d42260c-54d0-4b0f-92e3-a8539c7b3060",
+          "type": "multiple",
+          "postcode_sectors": [
+            "BN8 6"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-1d8bd321-71e3-41db-ace3-2c96f9682a46",
+          "type": "multiple",
+          "postcode_sectors": [
+            "BN43 5",
+            "DA12 3",
+            "ME1 1",
+            "ME2 3",
+            "ME3 7",
+            "ME3 8",
+            "RH1 6"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-2492e05e-99bc-4e49-9abd-ea0a793b41ae",
           "type": "multiple",
           "postcode_sectors": [
             "ME14 3",
@@ -5341,85 +5350,39 @@
           "message": null
         },
         {
-          "reference": "MULT-2a77acfd-979a-4d46-95b0-915a941bdaac",
+          "reference": "MULT-24ba9cb7-cb21-4b2b-8121-10f5f92cffc2",
           "type": "multiple",
           "postcode_sectors": [
-            "CO11 2"
+            "CM1 2"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-40767377-e61f-4ab9-acac-96420603a1da",
+          "reference": "MULT-2a980440-6d17-4282-8b2a-c73a5bb2543f",
           "type": "multiple",
           "postcode_sectors": [
-            "AL8 6"
+            "SS9 2"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-4313432b-6e66-4bbf-aa1d-c846263b2018",
+          "reference": "MULT-2d807f4d-a3fa-4ad4-90bf-009ac77da0a9",
           "type": "multiple",
           "postcode_sectors": [
-            "CM22 6",
-            "CM22 7",
-            "CM6 1",
-            "CM6 2"
+            "SG4 0",
+            "SG4 9",
+            "SG5 1"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-7c2b29ec-9c9f-437a-82a7-2ffc063ceb94",
-          "type": "multiple",
-          "postcode_sectors": [
-            "CM22 6",
-            "CM22 7",
-            "CM6 1",
-            "CM6 2"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-843a56d3-1e81-485e-8e10-66c89aa22e20",
-          "type": "multiple",
-          "postcode_sectors": [
-            "CM20 2",
-            "CM20 3"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-8e0e9ef3-768f-467c-a32b-4479c4073b74",
-          "type": "multiple",
-          "postcode_sectors": [
-            "N10 2"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-97497d6f-3851-4817-9676-17e9b4dabb2c",
-          "type": "multiple",
-          "postcode_sectors": [
-            "CB6 1",
-            "CB6 3"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-996c01df-3428-476e-90c3-9b35255842cf",
+          "reference": "MULT-3b5a85f0-1f27-43a8-9414-d29432e8c22e",
           "type": "multiple",
           "postcode_sectors": [
             "HA8 8"
@@ -5429,7 +5392,119 @@
           "message": null
         },
         {
-          "reference": "MULT-9ef94900-ab02-464d-80fe-5c0df121c70c",
+          "reference": "MULT-44a74d78-63dd-4c71-8d4e-53d6faa57b3a",
+          "type": "multiple",
+          "postcode_sectors": [
+            "CB8 8",
+            "CB8 9",
+            "CB9 0",
+            "CB9 7",
+            "CB9 9",
+            "CO10 8"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-5e0c3343-927a-4b5c-9631-c1faf9193d26",
+          "type": "multiple",
+          "postcode_sectors": [
+            "BN43 5",
+            "DA12 3",
+            "ME1 1",
+            "ME2 3",
+            "ME3 7",
+            "ME3 8",
+            "RH1 6"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-5e546cc4-bde0-4d9e-9735-e5a82bf573c5",
+          "type": "multiple",
+          "postcode_sectors": [
+            "WD19 5"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-79b64799-ca65-48a8-9447-63625100754b",
+          "type": "multiple",
+          "postcode_sectors": [
+            "ME14 3",
+            "ME14 4",
+            "ME14 5",
+            "ME15 8",
+            "ME17 1"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-7a12a714-a82e-43e7-a6c8-ba615e66f0b0",
+          "type": "multiple",
+          "postcode_sectors": [
+            "AL8 6"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-81a9eff3-6c81-47aa-9550-ff1143b16d60",
+          "type": "multiple",
+          "postcode_sectors": [
+            "CB8 8",
+            "CB8 9",
+            "CB9 0",
+            "CB9 7",
+            "CB9 9",
+            "CO10 8"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-8a25ee1a-12ed-4815-9d82-b9d0501089cb",
+          "type": "multiple",
+          "postcode_sectors": [
+            "CO11 2"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-92cba137-81d8-4242-8df6-94e7c8228ad0",
+          "type": "multiple",
+          "postcode_sectors": [
+            "SG4 0",
+            "SG4 9",
+            "SG5 1"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-97e37d82-1b56-4e20-b7e5-e12963bbbaf8",
+          "type": "multiple",
+          "postcode_sectors": [
+            "PE14 8"
+          ],
+          "homes_affected": 0,
+          "description": "Power cut",
+          "message": null
+        },
+        {
+          "reference": "MULT-b373fbc7-5ad9-4ab0-8fca-e5cbaeb02128",
           "type": "multiple",
           "postcode_sectors": [
             "BN24 5",
@@ -5443,78 +5518,50 @@
           "message": null
         },
         {
-          "reference": "MULT-a74095c8-4f3f-4600-879b-1c038128ccd2",
+          "reference": "MULT-d8ec7463-41e6-409f-92b2-339b0361680e",
           "type": "multiple",
           "postcode_sectors": [
-            "SG4 0",
-            "SG4 9",
-            "SG5 1"
+            "CM22 6",
+            "CM22 7",
+            "CM6 1",
+            "CM6 2"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-ad5bca2d-7a89-44e8-9f61-6222aa6b1a22",
+          "reference": "MULT-f5bd0bc8-1fd5-4914-a578-2a914e528660",
           "type": "multiple",
           "postcode_sectors": [
-            "BN43 5",
-            "DA12 3",
-            "ME1 1",
-            "ME2 3",
-            "ME3 7",
-            "ME3 8",
-            "RH1 6"
+            "CM22 6",
+            "CM22 7",
+            "CM6 1",
+            "CM6 2"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-c043df6f-d060-4e2e-b63a-05712261d937",
+          "reference": "MULT-f8066b88-f961-494d-979f-db55a190ec71",
           "type": "multiple",
           "postcode_sectors": [
-            "BN43 5",
-            "DA12 3",
-            "ME1 1",
-            "ME2 3",
-            "ME3 7",
-            "ME3 8",
-            "RH1 6"
+            "CM20 2",
+            "CM20 3"
           ],
           "homes_affected": 0,
           "description": "Power cut",
           "message": null
         },
         {
-          "reference": "MULT-c17eaec2-4880-4551-97a4-2d84fa9e00fd",
+          "reference": "MULT-fa649ce8-2000-435a-8d3b-4be7c14369a2",
           "type": "multiple",
           "postcode_sectors": [
-            "BN8 6"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-cf3ea5d8-d816-45bb-a0de-a578dc8736fd",
-          "type": "multiple",
-          "postcode_sectors": [
-            "WD19 5"
-          ],
-          "homes_affected": 0,
-          "description": "Power cut",
-          "message": null
-        },
-        {
-          "reference": "MULT-cf7fc7d2-37c5-452c-9155-cc9c9db069c5",
-          "type": "multiple",
-          "postcode_sectors": [
-            "ME14 3",
-            "ME14 4",
-            "ME14 5",
-            "ME15 8",
-            "ME17 1"
+            "DA13 9",
+            "DA2 7",
+            "DA2 8",
+            "DA4 9"
           ],
           "homes_affected": 0,
           "description": "Power cut",
@@ -5529,7 +5576,7 @@
     },
     "nged": {
       "publisher": "National Grid Electricity Distribution",
-      "last_checked_at": "2026-11-19T15:31:34Z",
+      "last_checked_at": "2026-11-19T16:37:17Z",
       "status": "current",
       "check_detail": "ok",
       "cuts": [
@@ -5550,14 +5597,6 @@
           ]
         },
         {
-          "reference": "INCD-117158-l",
-          "status": "In Progress",
-          "planned": "unplanned",
-          "postcode_sectors": [
-            "EX7 9"
-          ]
-        },
-        {
           "reference": "INCD-117167-l",
           "status": "In Progress",
           "planned": "unplanned",
@@ -5574,11 +5613,20 @@
           ]
         },
         {
-          "reference": "INCD-117205-l",
+          "reference": "INCD-117226-l",
           "status": "In Progress",
           "planned": "unplanned",
           "postcode_sectors": [
-            "BS21 7"
+            "EX14 4"
+          ]
+        },
+        {
+          "reference": "INCD-117261-l",
+          "status": "Awaiting",
+          "planned": "unplanned",
+          "postcode_sectors": [
+            "EX8 2",
+            "EX8 4"
           ]
         },
         {
@@ -5590,15 +5638,6 @@
             "PE24 5",
             "PE25 1",
             "PE25 2"
-          ]
-        },
-        {
-          "reference": "INCD-144734-h",
-          "status": "In Progress",
-          "planned": "unplanned",
-          "postcode_sectors": [
-            "CV10 7",
-            "CV10 8"
           ]
         },
         {
@@ -5660,16 +5699,8 @@
           ]
         },
         {
-          "reference": "INCD-144796-h",
-          "status": "In Progress",
-          "planned": "unplanned",
-          "postcode_sectors": [
-            "MK18 2"
-          ]
-        },
-        {
           "reference": "INCD-144814-h",
-          "status": "Awaiting",
+          "status": "In Progress",
           "planned": "unplanned",
           "postcode_sectors": [
             "PE20 2"
@@ -5684,12 +5715,12 @@
           ]
         },
         {
-          "reference": "INCD-144827-h",
-          "status": "In Progress",
+          "reference": "INCD-144834-h",
+          "status": "Awaiting",
           "planned": "unplanned",
           "postcode_sectors": [
-            "CV35 0",
-            "CV35 7"
+            "CV21 3",
+            "CV22 5"
           ]
         },
         {
@@ -5701,11 +5732,27 @@
           ]
         },
         {
+          "reference": "INCD-365802-f",
+          "status": "In Progress",
+          "planned": "unplanned",
+          "postcode_sectors": [
+            "B63 1"
+          ]
+        },
+        {
           "reference": "INCD-365803-f",
           "status": "Awaiting",
           "planned": "unplanned",
           "postcode_sectors": [
             "B24 8"
+          ]
+        },
+        {
+          "reference": "INCD-365806-f",
+          "status": "In Progress",
+          "planned": "unplanned",
+          "postcode_sectors": [
+            "ST3 6"
           ]
         },
         {
@@ -5759,29 +5806,11 @@
           ]
         },
         {
-          "reference": "INCD-76715-p",
-          "status": "In Progress",
-          "planned": "unplanned",
-          "postcode_sectors": [
-            "GL50 1",
-            "GL52 6",
-            "GL53 7"
-          ]
-        },
-        {
           "reference": "INCD-80723-m",
           "status": "Emergency",
           "planned": "unplanned",
           "postcode_sectors": [
             "GL12 8"
-          ]
-        },
-        {
-          "reference": "INCD-80822-m",
-          "status": "In Progress",
-          "planned": "unplanned",
-          "postcode_sectors": [
-            "B70 8"
           ]
         },
         {
@@ -5791,14 +5820,6 @@
           "postcode_sectors": [
             "B18 5",
             "B19 1"
-          ]
-        },
-        {
-          "reference": "INCD-80865-m",
-          "status": "Awaiting",
-          "planned": "unplanned",
-          "postcode_sectors": [
-            "B61 9"
           ]
         }
       ],
@@ -5811,7 +5832,7 @@
   },
   "threat_level": {
     "publisher": "MI5",
-    "last_checked_at": "2026-11-19T15:31:34Z",
+    "last_checked_at": "2026-11-19T16:37:17Z",
     "status": "current",
     "check_detail": "ok",
     "level": {
@@ -5829,7 +5850,7 @@
   },
   "ncsc_news": {
     "publisher": "National Cyber Security Centre",
-    "last_checked_at": "2026-11-19T15:31:34Z",
+    "last_checked_at": "2026-11-19T16:37:17Z",
     "status": "current",
     "check_detail": "ok",
     "items": [
@@ -5875,5 +5896,5 @@
     "licence_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
     "statement": "Contains public sector information licensed under the Open Government Licence v3.0."
   },
-  "bundle_hash": "sha256:v1:834887353a9014e2f2d094a9a1ca0a7153ff1137b3d6f7a66afef505b8e128fa"
+  "bundle_hash": "sha256:v1:905eb702412d9f6b65b4f4419b6b6e167721f6164eac7925ffdd333fccb2190c"
 }
